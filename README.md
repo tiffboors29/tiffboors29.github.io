@@ -8,7 +8,7 @@ If you would rather read plain text than a prettily colored and elegantly styled
 Hi, my name is Tiffany Boorsma. I'm a Michigan native who has been lucky enough to enjoy some time on both coasts as well as a bit of mountain life in between. While I currently reside back in my hometown of Grand Rapids, I am fond of travel and would be open to relocating for future opportunities.
 
 ## What do I do?
-I am a full stack software engineer with a strong desire to provide a first class user experience to the end consumer. I am proficient in back end development and design, although my enterprise level experience lies predominantly in front end engineering. Excited by the ever evolving technologies and frameworks emerging, I am keen to learn and build with new frameworks, languages and libraries. Most recently, I have worked on production level software with React, Redux, Angular, Node and vanilla JavaScript 
+I am a full stack software engineer with a strong desire to provide a first class user experience to the end consumer. I am proficient in back end development and design, although my enterprise level experience lies predominantly in front end engineering. Excited by the ever evolving technologies and frameworks emerging, I am keen to learn and build with new frameworks, languages and libraries. Most recently, I have built with React, Redux, Angular and JavaScript 
 
 
 ## Why do I do it?
